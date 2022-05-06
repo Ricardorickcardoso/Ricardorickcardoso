@@ -1,9 +1,10 @@
 - # RICARDO
-- ## Estudante
+- ## Estudante do Ensino Médio
 -
-- 👋 Hi, I’m @Ricardorickcardoso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+-
+- 👋 Olá, meu nome é Ricardo
+- 👀 Meus interesses principais são em novelas, jogos, debates, livros.
+- 🌱 No momento estou aprendendo a trabalhar com a disciplina de Pensamento Computacional
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
